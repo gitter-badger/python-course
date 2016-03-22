@@ -1,5 +1,7 @@
 # ![logo](logo.png) Python Course Materials
 
+[![Join the chat at https://gitter.im/obestwalter/python-course](https://badges.gitter.im/obestwalter/python-course.svg)](https://gitter.im/obestwalter/python-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## https://github.com/obestwalter/python-course
 
 Materials for an ongoing course with [CodeCats](http://codecats.io/) at the [Zeppelin University](https://www.zu.de/). 
